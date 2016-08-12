@@ -8,6 +8,13 @@ color:white
 }
 li{
 
-	color:white 
-
+	list-style-type:none;
+	color:red;
+	display:inline;  
+	margin-left:30%;
+	margin-right:70%;  
 }
+a{
+	color:red;
+}
+
